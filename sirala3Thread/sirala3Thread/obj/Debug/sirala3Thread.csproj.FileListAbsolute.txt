@@ -1,0 +1,12 @@
+C:\Users\Serap\Desktop\visual studio yazılan\sirala3Thread\sirala3Thread\bin\Debug\sirala3Thread.exe.config
+C:\Users\Serap\Desktop\visual studio yazılan\sirala3Thread\sirala3Thread\bin\Debug\sirala3Thread.exe
+C:\Users\Serap\Desktop\visual studio yazılan\sirala3Thread\sirala3Thread\bin\Debug\sirala3Thread.pdb
+C:\Users\Serap\Desktop\visual studio yazılan\sirala3Thread\sirala3Thread\obj\Debug\sirala3Thread.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\visual studio yazılan\sirala3Thread\sirala3Thread\obj\Debug\sirala3Thread.exe
+C:\Users\Serap\Desktop\visual studio yazılan\sirala3Thread\sirala3Thread\obj\Debug\sirala3Thread.pdb
+C:\Users\Serap\Desktop\Git için\sirala3Thread\sirala3Thread\sirala3Thread\bin\Debug\sirala3Thread.exe.config
+C:\Users\Serap\Desktop\Git için\sirala3Thread\sirala3Thread\sirala3Thread\bin\Debug\sirala3Thread.exe
+C:\Users\Serap\Desktop\Git için\sirala3Thread\sirala3Thread\sirala3Thread\bin\Debug\sirala3Thread.pdb
+C:\Users\Serap\Desktop\Git için\sirala3Thread\sirala3Thread\sirala3Thread\obj\Debug\sirala3Thread.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\sirala3Thread\sirala3Thread\sirala3Thread\obj\Debug\sirala3Thread.exe
+C:\Users\Serap\Desktop\Git için\sirala3Thread\sirala3Thread\sirala3Thread\obj\Debug\sirala3Thread.pdb
